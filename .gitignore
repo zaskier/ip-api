@@ -4,7 +4,6 @@
 /keys
 .env
 /nestjs-dockerized
-typeOrm.config.ts
 
 # IDE - VSCode
 .vscode/*
