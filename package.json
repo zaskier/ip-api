@@ -1,5 +1,5 @@
 {
-  "name": "flashcard-content-generator",
+  "name": "ip-api",
   "version": "0.0.1",
   "description": "",
   "author": "",
@@ -28,8 +28,6 @@
     "@nestjs/typeorm": "^10.0.1",
     "cache-manager": "^5.3.1",
     "mysql2": "^3.6.5",
-    "pg": "8.7.1",
-    "postgres": "^1.0.2",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^7.8.1",
     "typeorm": "^0.3.17"
